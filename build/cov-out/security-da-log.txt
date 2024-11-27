@@ -1,4 +1,0 @@
-/usr/lib/cov-analysis-linux64-2023.12.2/bin/cov-security-da --dir /home/miguel/Workspace/Mend/coverity-analysis/my-goat/build/cov-out 
-cov-security-da version 2023.12.2 on Linux 6.8.0-49-generic x86_64
-Internal version numbers: 78329b8295 p-2023.12-push-50
-

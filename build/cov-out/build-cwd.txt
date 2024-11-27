@@ -1,1 +1,0 @@
-/home/miguel/Workspace/Mend/coverity-analysis/my-goat/build

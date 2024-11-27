@@ -1,3 +1,0 @@
-/home/miguel/Workspace/Mend/coverity-analysis/my-goat/build/CMakeFiles/CoverityExample.dir
-/home/miguel/Workspace/Mend/coverity-analysis/my-goat/build/CMakeFiles/edit_cache.dir
-/home/miguel/Workspace/Mend/coverity-analysis/my-goat/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/CoverityExample.dir/main.cpp.o -o CoverityExample 

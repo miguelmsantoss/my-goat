@@ -1,5 +1,0 @@
-Native Compiler invocation: /usr/bin/c++ -std=gnu++17 -MD -MT CMakeFiles/CoverityExample.dir/main.cpp.o -MF CMakeFiles/CoverityExample.dir/main.cpp.o.d -o CMakeFiles/CoverityExample.dir/main.cpp.o -c /home/miguel/Workspace/Mend/coverity-analysis/my-goat/main.cpp
-Working directory: /home/miguel/Workspace/Mend/coverity-analysis/my-goat/build
-Comptype: g++
-* Configuring /usr/bin/c++ as a C++ compiler
-* Configuring /usr/bin/c++ as a C compiler
