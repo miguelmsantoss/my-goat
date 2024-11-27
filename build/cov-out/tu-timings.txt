@@ -1,0 +1,5 @@
+Translation unit:
+1 -> /home/miguel/Workspace/Mend/coverity-analysis/my-goat/main.cpp
+cov-emit invocation time (seconds): 1
+cov-translate invocation time (seconds): 7
+cov-build invocation time (seconds): 15

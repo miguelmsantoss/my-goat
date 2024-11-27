@@ -1,0 +1,29 @@
+# Version: 78329b8295 p-2023.12-push-50
+# Command Line: cov-build --dir cov-out make
+timer                              ms      calls
+------------------------------------------------
+cov-build                       14017          1
+  create_or_open emit DB            8          1
+    open emit DB                    8          1
+  add_string_to_table               0          6
+  addEmitFileName                   0          1
+  addEnvironmentVars                2          1
+    add_string_to_table             2         59
+  Prepare capture                   1          1
+  Running build command         13952          1
+  SecurityDA                       40          1
+  TUInfo::getPrimarySFRow           0          1
+  (left over)                      14
+
+activity                           ms      calls
+------------------------------------------------
+cov-build                       14017          1
+create_or_open emit DB              8          1
+open emit DB                        8          1
+add_string_to_table                 2         65
+addEmitFileName                     0          1
+addEnvironmentVars                  2          1
+Prepare capture                     1          1
+Running build command           13952          1
+SecurityDA                         40          1
+TUInfo::getPrimarySFRow             0          1

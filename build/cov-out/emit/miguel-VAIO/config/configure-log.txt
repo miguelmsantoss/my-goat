@@ -1,0 +1,6 @@
+Encountered compiler invocation for first time, configuring it: /usr/bin/x86_64-linux-gnu-g++-13 -std=gnu++17
+[STATUS] Using comptype g++
+Added template compiler configuration instance /home/miguel/Workspace/Mend/coverity-analysis/my-goat/build/cov-out/emit/miguel-VAIO/config/693547cb75344bd7220b7c635c6508aa/coverity_config.xml
+Encountered compiler invocation for first time, configuring it: /usr/bin/x86_64-linux-gnu-g++-13
+[STATUS] Using comptype g++
+Added template compiler configuration instance /home/miguel/Workspace/Mend/coverity-analysis/my-goat/build/cov-out/emit/miguel-VAIO/config/962474c688fd9460628d7746d060dfaa/coverity_config.xml

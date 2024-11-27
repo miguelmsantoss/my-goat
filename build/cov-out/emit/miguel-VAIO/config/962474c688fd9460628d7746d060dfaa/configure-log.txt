@@ -1,0 +1,5 @@
+Native Compiler invocation: /usr/bin/c++ CMakeFiles/CoverityExample.dir/main.cpp.o -o CoverityExample
+Working directory: /home/miguel/Workspace/Mend/coverity-analysis/my-goat/build
+Comptype: g++
+* Configuring /usr/bin/c++ as a C++ compiler
+* Configuring /usr/bin/c++ as a C compiler
